@@ -10,9 +10,14 @@ As a member of the Centaurus Racing Team, my role included creating a robust and
 📊 Market Research: Analyzing potential customer segments, trends, and demands.
 
 💰 Pricing Strategy: Determining optimal pricing structures to maximize revenue.
+
 🏆 Competitor Analysis: Evaluating rival teams and similar market products.
+
 📣 Promotion Strategies: Outlining targeted marketing campaigns and channels.
+
 🛠️ Milestones: Setting short- and long-term goals for our team's progress.
+
 📑 Finances: Comprehensive budgeting and financial forecasting.
+
 🌍 Environmental Responsibility: Emphasizing our commitment to sustainability.
 
