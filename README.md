@@ -6,7 +6,9 @@ Welcome to the business plan project I developed as part of my bachelor studies,
 As a member of the Centaurus Racing Team, my role included creating a robust and innovative business plan that would outline the key components of a successful product launch in the competitive world of Formula Student. This brochure includes:
 
 💡 Business Idea: Exploring our unique value proposition and competitive edge.
+
 📊 Market Research: Analyzing potential customer segments, trends, and demands.
+
 💰 Pricing Strategy: Determining optimal pricing structures to maximize revenue.
 🏆 Competitor Analysis: Evaluating rival teams and similar market products.
 📣 Promotion Strategies: Outlining targeted marketing campaigns and channels.
